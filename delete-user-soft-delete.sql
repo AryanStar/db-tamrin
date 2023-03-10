@@ -1,0 +1,1 @@
+UPDATE `users` SET `state` = 'Deleted' WHERE id = 1;
