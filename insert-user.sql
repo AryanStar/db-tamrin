@@ -1,0 +1,1 @@
+INSERT INTO `users` (`id`, `username`, `password`, `firstName`, `lastName`, `state`) VALUES (NULL, 'Arlixx', '123456', 'Aryan', 'Rashidi', 'Active');
