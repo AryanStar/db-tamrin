@@ -1,0 +1,1 @@
+SELECT * FROM `products` where brand LIKE "%آد%"
